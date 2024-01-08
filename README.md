@@ -2,9 +2,10 @@
 - 👀 I’m interested in desktop, android, graphics(render engines) development
 - 🌱 I’m currently learning openGL(Render engine dev)
 - 💞️ I’m looking to collaborate on Render engines, graphics development, android and desktop development
-- 📫 How to reach me ... singhdeepak8872@gmail.com,
--                         https://www.linkedin.com/in/deepaksinghdsk/,
--                         https://twitter.com/deepaksingh_dsk
+- 📫 How to reach me ...
+- singhdeepak8872@gmail.com
+- https://www.linkedin.com/in/deepaksinghdsk/
+- https://twitter.com/deepaksingh_dsk
 
 <!---
 deepaksinghdsk/deepaksinghdsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
