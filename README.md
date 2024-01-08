@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Render engines, graphics development, android and desktop development
 - 📫 How to reach me ...
 - singhdeepak8872@gmail.com
-- https://www.linkedin.com/in/deepaksinghdsk/
 - https://twitter.com/deepaksingh_dsk
+- https://www.linkedin.com/in/deepaksinghdsk/
 
 <!---
 deepaksinghdsk/deepaksinghdsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
